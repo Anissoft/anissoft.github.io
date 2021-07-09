@@ -1,0 +1,79 @@
+/* montserrat-300 - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url('montserrat-v15-latin_cyrillic-300.fc04f59f.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-300.7398ac1c.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-300.f61b42df.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-300.135f7f7d.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-300.3575db03.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-300.9ca4779b.svg') format('svg'); /* Legacy iOS */
+}
+/* montserrat-300italic - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  src: url('montserrat-v15-latin_cyrillic-300italic.b04e4fb5.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-300italic.b3d3ea35.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-300italic.7de900e8.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-300italic.42f40214.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-300italic.aa1f96ac.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-300italic.a05341c4.svg') format('svg'); /* Legacy iOS */
+}
+/* montserrat-italic - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: url('montserrat-v15-latin_cyrillic-italic.765086d2.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-italic.f60dd8bc.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-italic.ccdcd393.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-italic.59f293ff.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-italic.3040f05b.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-italic.f715ddd4.svg') format('svg'); /* Legacy iOS */
+}
+/* montserrat-regular - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('montserrat-v15-latin_cyrillic-regular.248e1318.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-regular.7277f8ab.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-regular.747aeb60.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-regular.3cc87c42.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-regular.4aefc795.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-regular.26c24901.svg') format('svg'); /* Legacy iOS */
+}
+/* montserrat-500 - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: url('montserrat-v15-latin_cyrillic-500.faaa33bb.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-500.35b5b226.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-500.a78f9fb7.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-500.b08bdd18.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-500.8f7d9edb.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-500.51bc0c97.svg') format('svg'); /* Legacy iOS */
+}
+/* montserrat-500italic - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  src: url('montserrat-v15-latin_cyrillic-500italic.da2676d0.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('montserrat-v15-latin_cyrillic-500italic.1684597e.eot') format('embedded-opentype'), 
+       url('montserrat-v15-latin_cyrillic-500italic.2810dba9.woff2') format('woff2'), 
+       url('montserrat-v15-latin_cyrillic-500italic.7f8a3f3c.woff') format('woff'), 
+       url('montserrat-v15-latin_cyrillic-500italic.2d0fe53f.ttf') format('truetype'), 
+       url('montserrat-v15-latin_cyrillic-500italic.81c311ad.svg') format('svg'); /* Legacy iOS */
+}
+/*# sourceMappingURL=index.ef1951f6.css.map */
